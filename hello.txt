@@ -4,3 +4,6 @@
 4878
 78787874545
 4545
+add some to hello.txt
+123123
+fadsfsdad
